@@ -3,3 +3,6 @@ Commit Keeper
 1. This commit was created locally
 2. I will use 'git add' and 'git commit'
 3. I will push it to GitHub.
+
+4. Adding this section remotely with GitHub's editor.
+5. Will pull this after I open this file locally.
