@@ -1,0 +1,5 @@
+Commit Keeper
+
+1. This commit was created locally
+2. I will use 'git add' and 'git commit'
+3. I will push it to GitHub.
