@@ -6,3 +6,6 @@ Commit Keeper
 
 6. I'm adding this section locally.
 7. I am going to pull from GitHub now.
+
+4. Adding this section remotely with GitHub's editor.
+5. Will pull this after I open this file locally.
