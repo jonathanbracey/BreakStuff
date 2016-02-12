@@ -3,3 +3,6 @@ Commit Keeper
 1. This commit was created locally
 2. I will use 'git add' and 'git commit'
 3. I will push it to GitHub.
+
+6. I'm adding this section locally.
+7. I am going to pull from GitHub now.
